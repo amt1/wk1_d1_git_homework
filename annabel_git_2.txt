@@ -1,0 +1,5 @@
+.
+..
+.git
+annabel_git_1.txt
+annabel_git_2.txt
